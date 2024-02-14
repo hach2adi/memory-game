@@ -1,0 +1,17 @@
+.card {
+  position: relative;
+}
+
+.card img {
+  width: 100%;
+  display: block;
+  border-radius: 6px;
+}
+
+.card .front {
+  background-color: white;
+}
+
+.flipped .front {
+  transition-delay: 0.2s;
+}

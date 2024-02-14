@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Luckiest+Guy&display=swap');
+
+
+body {
+ margin: 0;
+ font-family: Indie flower, sans-serif; 
+ font-size: 1.5em;
+ text-align: center;
+ background-color: #021106;
+ color: antiquewhite;
+}
+
+button {
+    font-family: Indie flower, sans-serif; 
+}
